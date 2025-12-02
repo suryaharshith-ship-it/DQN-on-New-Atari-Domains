@@ -14,7 +14,7 @@ This project takes a simple DQN model and adapts it from *Pong* to *Breakout* us
 ## Videos
 
 - **Before Training**:  
-  [early.mp4](videos/early.mp4)
+  (https://github.com/suryaharshith-ship-it/DQN-on-New-Atari-Domains/blob/main/early.mp4)
   
 - **After Training**:  
   [later.mp4](videos/later.mp4)
