@@ -18,8 +18,3 @@ This project takes a simple DQN model and adapts it from *Pong* to *Breakout* us
   (https://github.com/suryaharshith-ship-it/DQN-on-New-Atari-Domains/blob/main/later.mp4)
 
 
-## Notes
-
-- Breakout episodes end quickly early on, so even short clips show clear differences in paddle behavior.
-- The goal was to show progress, not to build a perfect agent.
-- Used epsilon-greedy exploration, frame stacking, and a standard DQN CNN for training.
