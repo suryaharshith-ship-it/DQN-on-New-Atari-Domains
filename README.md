@@ -1,6 +1,6 @@
 # DQN on Breakout
 
-This project takes a simple DQN model and adapts it from *Pong* to *Breakout* using Gymnasium and ALE. The goal wasn’t to build a perfect agent, but to show how the agent’s behavior improves after a little training.
+This project takes a simple DQN model and adapts it from *Pong* to *Breakout* using Gymnasium and ALE. The goal was to show behavior improves after a little training.
 
 ## What I Did
 
