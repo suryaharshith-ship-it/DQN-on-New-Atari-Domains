@@ -7,9 +7,7 @@ This project takes a simple DQN model and adapts it from *Pong* to *Breakout* us
 - **Environment Switch**: Changed from *Pong* (ALE/Pong-v5) to *Breakout* (ALE/Breakout-v5)
 - **Model**: Kept the same DQN model, replay buffer, training loop, and wrappers
 - **Training**: Ran a short training session to learn basic paddle control and handle longer rallies
-- **Gameplay Clips**: Recorded two short clips to show progress:
-  - **Before training** (random, early behavior)
-  - **After training** (improved, later behavior)
+- **Gameplay Clips**: Recorded two short clips to show progress
 
 ## Videos
 
